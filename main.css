@@ -23,8 +23,9 @@ h1,p{
     text-align: center;
 }
 
-ul{
+li{
     text-align: center;
+    display: inline;
 }
 
 .hidden {
