@@ -1,0 +1,33 @@
+@charset 'utf-8';
+
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+     
+}
+
+html{
+    font-size: 26px;
+    line-height: 1.5;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+body{
+    font-size: 22px;
+    color: coral; 
+    background-color: blanchedalmond;
+}
+
+h1,p{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
