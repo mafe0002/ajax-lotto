@@ -24,8 +24,8 @@ h1,p{
 }
 
 li{
-    text-align: center;
     display: inline;
+   padding: 25%;
 }
 
 .hidden {
